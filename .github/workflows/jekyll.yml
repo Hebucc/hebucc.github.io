@@ -1,10 +1,10 @@
-name: Jekyll site CI
+name: SuanNai CI
 
 on:
   push:
-    branches: [ master ]
+    branches: [ LHFZ ]
   pull_request:
-    branches: [ master ]
+    branches: [ LHFZ ]
 
 jobs:
   build:
