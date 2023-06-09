@@ -51,7 +51,7 @@ author-about: 酸奶是个淳朴又低调的人，就像他的口味一样，简
 
 他有一种平和的气质，就像他的味道一样，既不过于甜腻，也不太酸，恰恰好，让人觉得舒服。他的存在就是一种简单的幸福，让人在繁忙的生活中找到片刻的宁静。byGPT
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: <img src="assets/images/121.jpg" alt="My Image">
+author-url: <img src="{{ site.author-url }}" alt="My Image">
 
 
 # SASS
