@@ -7,9 +7,9 @@ url: ''
 baseurl: 
 
 # Title of the Site
-title: What A Theme
+title: Suan Nai 
 # Description of the Site
-description: A customizable Jekyll portfolio theme
+description: 一个脆弱的落后分子
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -22,13 +22,13 @@ heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: thedevslot@gmail.com
-facebook_username: thedevslot
-twitter_username: thedevslot
-instagram_username: thedevslot
-linkedin_username: thedevslot
-github_username:  thedevslot
-youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
+email: hebu687@gmail.com
+facebook_username: suannai
+twitter_username: suannai
+instagram_username: suannai
+linkedin_username: suannai
+github_username:  suannai
+youtube_channel_id: suannai
 reddit_username: /
 behance_username: /
 dribbble_username: /
