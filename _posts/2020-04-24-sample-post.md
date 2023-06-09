@@ -1,17 +1,34 @@
 ---
-title: Sample Post
+title: 一个虚假的帖子
 layout: post
 post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/SamplePost.png?token=AHMQUEPC4IFADOF5VG4QVN26Z64GG"
-description: A sample post to show how the content will look and how will different
-  headlines, quotes and codes will be represented.
+description: 一些和酸奶相关的诗句
 tags:
 - sample
 - post
 - test
 ---
 
-This post will show you how the content will look like in the post pages and how the headlines, quotes and quotes will be represented. Jekyll is mainly used to write simple markdown and after that it renders out a static pages, so you need to know the basics of writing markdown for that.
-For more information about writing markdown you can checkout the following markdown cheatsheets:
+苏州市，寻遍地，终未见苏州市，
+仰头瞧，下班累，竟然忘了在苏州市。
+一罐酸奶，一卷诗，惬意生活真滋味，
+天南海北，风尘仆仆，但为酸奶颜色变。
+
+在江湖间，大剑出鞘，刀光闪烁苏州市，
+惊鸿一瞥，忽见君，原来你也爱酸奶。
+瓶盖微转，清香扑鼻，一口尽显生活滋味，
+这等甘醇，世间少有，唯有酸奶无人敌。
+
+夜深人静，月光如水，铺满整个苏州市，
+一个人，一罐酸奶，独享这半夜的宁静。
+何需贵酒，何需佳肴，只需一罐酸奶，
+苏州的月，酸奶的甜，生活真是妙不可言。
+
+走过万水千山，终于来到苏州市，
+面对面，心贴心，只因你手中的酸奶。
+忧愁满腹，烦恼满心，来一口，酸奶在此，
+苏州的风，酸奶的醇，笑看人生百态变。
+
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
 * [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
